@@ -1,17 +1,12 @@
 # Men Stack Session Auth
 A full-stack app built to practice session-based authentication with Express and MongoDB.
 
-## Screenshot/Logo
-Add a screenshot here.
+
 
 ## Description
 This project was built to practice user authentication in a MEN stack application. It focuses on signing up, logging in, managing sessions, and protecting routes so only signed-in users can access certain parts of the app.
 
 It was a useful way to improve my understanding of authentication, user data, and how secure access works in full-stack development.
-
-## Deployment Link
-**Live App:**  
-Add your deployed link here if available.
 
 ## Planning
 Before building, the main focus was understanding the login flow and how session-based authentication works.
